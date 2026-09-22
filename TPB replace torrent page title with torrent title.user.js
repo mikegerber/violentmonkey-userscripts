@@ -2,7 +2,7 @@
 // @name        TPB replace torrent page title with torrent title
 // @namespace   https://github.com/mikegerber
 // @version     0.0.1
-// @downloadURL https://raw.githubusercontent.com/mikegerber/violetmonkey-userscripts/master/TPB%20replace%20torrent%20page%20title%20with%20torrent%20title.user.js
+// @downloadURL https://raw.githubusercontent.com/mikegerber/violentmonkey-userscripts/master/TPB%20replace%20torrent%20page%20title%20with%20torrent%20title.user.js
 // @match       https://thepiratebay.org/description.php*
 // @grant       none
 // @run-at     document-end
