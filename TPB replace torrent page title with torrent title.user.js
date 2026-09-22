@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        TPB replace torrent page title with torrent title
 // @namespace   https://github.com/mikegerber
-// @match       *://thepiratebay.org/description.php*
+// @match       https://thepiratebay.org/description.php*
 // @grant       none
 // @run-at     document-end
 // @require    https://cdn.jsdelivr.net/npm/@violentmonkey/dom@2
