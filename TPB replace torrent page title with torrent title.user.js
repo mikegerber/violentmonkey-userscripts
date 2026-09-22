@@ -11,13 +11,6 @@
 // ==/UserScript==
 
 
-const config = {
-  "debug": true,
-};
-const debug = config.debug ? console.log.bind(console) : function(){};
-
-
-
 const label_name = document.querySelector("label#name").innerText;
 const new_title = `TPB: ${label_name}`;
 
